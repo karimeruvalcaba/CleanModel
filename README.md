@@ -73,3 +73,18 @@ Instalar Mesa ejecutando:
 
 ```bash
 pip install mesa
+
+
+### ▶️ Ejecución
+Para iniciar el servidor y visualizar la simulación, ejecuta:
+
+```bash
+python server.py
+
+## ⚙️ Personalización
+Puedes ajustar los parámetros de la simulación utilizando los controles en la interfaz web para experimentar con distintos comportamientos y configuraciones 🛠️🖱️.
+
+## 📈 Futuras Mejoras
+- 🔍 **Agregar más algoritmos de búsqueda y limpieza.**
+- ➡️ **Permitir el movimiento diagonal para las aspiradoras.**
+- 🧱 **Implementar diferentes tipos de obstáculos con características adicionales.**
